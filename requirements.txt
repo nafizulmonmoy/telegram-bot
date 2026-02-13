@@ -2,3 +2,4 @@ pyTelegramBotAPI
 instaloader
 gradio
 requests
+yt-dlp
